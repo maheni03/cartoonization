@@ -2,6 +2,10 @@
 
 **Cartoonization** is a project that uses a Pix2Pix model to transform real-world landscape images into cartoon-styled images. This project was developed as a collaborative effort and includes data, a trained model, and an evaluation pipeline.
 
+## Link of dataset
+
+https://www.kaggle.com/datasets/qwertyforce/scenery-watermarks
+
 ## Key Features
 
 - Transform real images into cartoon-style images using Pix2Pix GAN.
