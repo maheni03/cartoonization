@@ -32,7 +32,7 @@ Measure the quality of transformations using metrics provided in the notebook.
 
 ## Authors
 
-Maheni SOUMAH
-Habiba DJIGO
-Jessica MBOUNKAP
-Tasnim MASHEH
+- Maheni SOUMAH
+- Habiba DJIGO
+- Jessica MBOUNKAP
+- Tasnim MASHEH
