@@ -18,3 +18,21 @@
 - **`new_pix2pix.ipynb`**: Main notebook with training and evaluation code.
 - **`.gitattributes`**: Git LFS configuration for handling large files.
 
+## Usage
+
+Training:
+
+Use the new_pix2pix.ipynb notebook to load the data and train the Pix2Pix model.
+Prediction:
+
+Load the pre-trained model and use it to generate cartoon-style images from real-world input.
+Evaluation:
+
+Measure the quality of transformations using metrics provided in the notebook.
+
+## Authors
+
+Maheni SOUMAH
+Habiba DJIGO
+Jessica MBOUNKAP
+Tasnim MASHEH
